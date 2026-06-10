@@ -3,7 +3,7 @@
 # Student Name: Makeba W.
 # Assignment Number: 2
 # Due Date: 06/03/2026
-# Purpose: This program asks if the user wants to append data to a list, display the list, or clear it. There is also the option to quit.
+# Purpose: This program interprets a preprovided file containing the list of student names and scores, parses the information, then displays the student's average as well as class' average.
 # I used the PowerPoint, however, again; this uses pretty basic Python knowledge learned in our CSE1322 class. I enjoyed the memory exercise.
 
 
